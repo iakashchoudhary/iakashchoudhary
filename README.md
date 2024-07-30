@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <table>
   <tr>
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-## Top Languages
+## 🔝 Top Languages
 
 <table>
   <tr>
