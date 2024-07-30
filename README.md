@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,c,cs,cpp,css,django,dotnet,eclipse,figma,git,html,github,java,md,netlify,php,postman,py,r,raspberrypi,stackoverflow,sklearn,tensorflow,ubuntu,visualstudio,vscode&perline=8&theme=light" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,c,cs,cpp,css,django,dotnet,eclipse,figma,git,html,github,java,md,netlify,php,postman,py,r,raspberrypi,stackoverflow,sklearn,tensorflow,ubuntu,visualstudio,vscode&perline=9&theme=light" />
   </a>
 </p>
 
