@@ -124,7 +124,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">Connect & Engage</h2>
 <p align="center">
-  <a href="https://www.codechef.com/users/akashchoudhai" target="_blank">
+  <a href="https://www.codechef.com/users/akashchoudhari" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-%23CC9966.svg?logo=codechef&logoColor=white" alt="CodeChef" />
   </a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/iakashchoudhary" target="_blank">
