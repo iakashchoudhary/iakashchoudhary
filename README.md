@@ -125,21 +125,21 @@ Here are some ideas to get you started:
 <h2 align="center">Connect with Me</h2>
   <p align="center">
     <a href="https://www.codechef.com/users/akashchoudhari">
-      <img src="https://github.com/user-attachments/assets/40336849-22dc-4b9a-be85-10cb399e54c7" alt="CodeChef" />
+      <img src="https://github.com/user-attachments/assets/40336849-22dc-4b9a-be85-10cb399e54c7" alt="CodeChef" height="20" weight="20" />
     </a>
     <a href="https://github.com/iakashchoudhary">
-      <img src="https://github.com/user-attachments/assets/4991cdab-e284-4309-aa76-14ec3a4b606e" alt="GitHub" />
+      <img src="https://github.com/user-attachments/assets/4991cdab-e284-4309-aa76-14ec3a4b606e" alt="GitHub" height="20" weight="20" />
     </a>
     <a href="mailto:akash01082001@gmail.com">
-      <img src="https://github.com/user-attachments/assets/c2e36351-741a-411a-ac1d-5d497bab6075" alt="Gmail" />
+      <img src="https://github.com/user-attachments/assets/c2e36351-741a-411a-ac1d-5d497bab6075" alt="Gmail" height="20" weight="20" />
     </a>
     <a href="https://www.hackerrank.com/iakashchoudhary">
-      <img src="https://github.com/user-attachments/assets/fb520a50-7710-4c76-8289-34337dd6ee0e" alt="HackerRank" />
+      <img src="https://github.com/user-attachments/assets/fb520a50-7710-4c76-8289-34337dd6ee0e" alt="HackerRank" height="20" weight="20" />
     </a>
     <a href="https://leetcode.com/iakashchoudhary/">
-      <img src="https://github.com/user-attachments/assets/d0fa5a90-9b74-4712-8742-e12602d3a613" alt="LeetCode" />
+      <img src="https://github.com/user-attachments/assets/d0fa5a90-9b74-4712-8742-e12602d3a613" alt="LeetCode" height="20" weight="20" />
     </a>
     <a href="https://www.linkedin.com/in/iakashchoudhary">
-      <img src="https://github.com/user-attachments/assets/90be985a-2959-43b6-b204-a51d8c555eed" alt="LinkedIn" />
+      <img src="https://github.com/user-attachments/assets/90be985a-2959-43b6-b204-a51d8c555eed" alt="LinkedIn" height="20" weight="20" />
     </a>
   </p>
