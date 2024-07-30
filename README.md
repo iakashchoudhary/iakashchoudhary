@@ -17,6 +17,96 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 💻 Technologies I Work With
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,angular,apple,arduino,aws,bootstrap,c,cs,cpp,css,django,dotnet,eclipse,figma,git,gmail,gradle,html,github,java,js,linux,md,netlify,nodejs,npm,php,postman,py,r,raspberrypi,spring,sqlite,stackoverflow,sklearn,tensorflow,ubuntu,visualstudio,vscode" />
+  </a>
+</p>
+
+<-- 
+### 🖥️ Programming Languages
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python," />
+  </a>
+</p>
+
+### 💾 Databases
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=" />
+  </a>
+</p>
+
+### ⚙️ Frameworks
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular," />
+  </a>
+</p>
+
+### 🛠️ Software & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,arduino" />
+  </a>
+</p>
+
+### 🔌 APIs
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=" />
+  </a>
+</p>
+
+### 🧪 Testing Frameworks
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=" />
+  </a>
+</p>
+
+### Version Control Systems
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=" />
+  </a>
+</p>
+
+### Design & Prototyping Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=" />
+  </a>
+</p>
+
+### Big Data & Analytics
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=" />
+  </a>
+</p>
+
+### Machine Learning & Artifical Intelligence
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=" />
+  </a>
+</p>
+-->
+
 ## 📊 GitHub Statistics
 
 <table>
