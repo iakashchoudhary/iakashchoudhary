@@ -1,6 +1,6 @@
 ## Hi there, I'm Akash Choudhary 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=iakashchoudhary&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=iakashchoudhary&color=green)
 
 <!--
 **iakashchoudhary/iakashchoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
