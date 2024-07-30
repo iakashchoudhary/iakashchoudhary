@@ -1,6 +1,8 @@
-## Hi there, I'm Akash Choudhary 👋
+# Hi there, I'm Akash Choudhary 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=iakashchoudhary&color=green)
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=iakashchoudhary&color=green" alt="Profile Views" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=default&font=default&fontColor=black&bgColor=white" alt="Quote" />
