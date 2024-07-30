@@ -26,8 +26,6 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-## 🔝 Top Languages
-
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakashchoudhary&layout=compact&theme=default" alt="Top Languages"></td>
