@@ -127,9 +127,12 @@ Here are some ideas to get you started:
   <a href="https://www.codechef.com/users/your-codechef-username">
     <img src="https://img.shields.io/badge/CodeChef-%23CC9966.svg?logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
+</p>
+<p>
   <a href="https://www.hackerrank.com/your-hackerrank-profile">
     <img src="https://img.shields.io/badge/HackerRank-%2311B44C.svg?logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
+</p>
   <a href="https://github.com/iakashchoudhary">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" />
   </a>
