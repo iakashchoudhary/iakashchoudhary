@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table>
+<table style="background-color: white;">
   <tr>
     <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakashchoudhary&layout=compact&theme=default" alt="Top Languages"></td>
   </tr>
