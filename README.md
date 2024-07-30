@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 💻 Technologies I Work With
+## 🖥️ Technologies I Work With
 
 <p align="center">
   <a href="https://skillicons.dev">
