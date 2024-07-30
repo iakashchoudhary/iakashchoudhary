@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,angular,apple,arduino,aws,bootstrap,c,cs,cpp,css,django,dotnet,eclipse,figma,git,gmail,gradle,html,github,java,js,linux,md,netlify,nodejs,npm,php,postman,py,r,raspberrypi,spring,sqlite,stackoverflow,sklearn,tensorflow,ubuntu,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,angular,apple,arduino,aws,bootstrap,c,cs,cpp,css,django,dotnet,eclipse,figma,git,gmail,gradle,html,github,java,js,linux,md,netlify,nodejs,php,postman,py,r,raspberrypi,spring,sqlite,stackoverflow,sklearn,tensorflow,ubuntu,visualstudio,vscode&perline=13" />
   </a>
 </p>
 
-<-- 
+<!-- 
 ### 🖥️ Programming Languages
 
 <p align="center">
