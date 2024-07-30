@@ -121,3 +121,25 @@ Here are some ideas to get you started:
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakashchoudhary&layout=compact&theme=default" alt="Top Languages"></td>
   </tr>
 </table>
+
+<h2 align="center">Connect with Me</h2>
+  <p align="center">
+    <a href="mailto:akash01082001@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+    </a>
+    <a href="https://www.linkedin.com/in/iakashchoudhary">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/iakashchoudhary">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    </a>
+    <a href="https://www.hackerrank.com/iakashchoudhary">
+      <img src="https://skillicons.dev/icons?i=hackerrank" alt="HackerRank" />
+    </a>
+    <a href="https://www.codechef.com/users/akashchoudhari">
+      <img src="https://skillicons.dev/icons?i=codechef" alt="CodeChef" />
+    </a>
+    <a href="https://leetcode.com/iakashchoudhary/">
+      <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" />
+    </a>
+  </p>
