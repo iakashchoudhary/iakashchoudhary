@@ -2,7 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iakashchoudhary&color=green)
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=default&font=default&fontColor=black&bgColor=white)
+<p align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=default&font=default&fontColor=black&bgColor=white" alt="Quote" />
+</p>
 
 <!--
 **iakashchoudhary/iakashchoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
