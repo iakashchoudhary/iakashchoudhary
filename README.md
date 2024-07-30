@@ -124,22 +124,22 @@ Here are some ideas to get you started:
 
 <h2 align="center">Connect & Engage</h2>
 <p align="center">
-  <a href="https://www.codechef.com/users/your-codechef-username">
+  <a href="https://www.codechef.com/users/your-codechef-username" target="blank">
     <img src="https://img.shields.io/badge/CodeChef-%23CC9966.svg?logo=codechef&logoColor=white" alt="CodeChef" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/your-hackerrank-profile">
+  <a href="https://www.hackerrank.com/your-hackerrank-profile" target="blank">
     <img src="https://img.shields.io/badge/HackerRank-%2311B44C.svg?logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/iakashchoudhary">
+  <a href="https://github.com/iakashchoudhary" target="blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" />
   </a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/your-leetcode-username/">
+  <a href="https://leetcode.com/your-leetcode-username/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-%23F7DF1E.svg?logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:your-email@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
