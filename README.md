@@ -123,23 +123,23 @@ Here are some ideas to get you started:
 </table>
 
 <h2 align="center">Connect & Engage</h2>
-  <p align="center">
-    <a href="mailto:your-email@gmail.com">
-      <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/your-linkedin-profile">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/iakashchoudhary">
-      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://www.hackerrank.com/your-hackerrank-profile">
-      <img src="https://img.shields.io/badge/HackerRank-%2311B44C.svg?logo=hackerrank&logoColor=white" alt="HackerRank" />
-    </a>
-    <a href="https://www.codechef.com/users/your-codechef-username">
-      <img src="https://img.shields.io/badge/CodeChef-%23CC9966.svg?logo=codechef&logoColor=white" alt="CodeChef" />
-    </a>
-    <a href="https://leetcode.com/your-leetcode-username/">
-      <img src="https://img.shields.io/badge/LeetCode-%23F7DF1E.svg?logo=leetcode&logoColor=black" alt="LeetCode" />
-    </a>
-  </p>
+<p align="center">
+  <a href="https://www.codechef.com/users/your-codechef-username">
+    <img src="https://img.shields.io/badge/CodeChef-%23CC9966.svg?logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://www.hackerrank.com/your-hackerrank-profile">
+    <img src="https://img.shields.io/badge/HackerRank-%2311B44C.svg?logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://github.com/iakashchoudhary">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/your-leetcode-username/">
+    <img src="https://img.shields.io/badge/LeetCode-%23F7DF1E.svg?logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
