@@ -125,7 +125,7 @@ Here are some ideas to get you started:
 <h2 align="center">Connect with Me</h2>
   <p align="center">
     <a href="mailto:akash01082001@gmail.com">
-      <img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" alt="Gmail" />
+      <img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" alt="Gmail" height="20" weight="20" />
     </a>
     <a href="https://www.linkedin.com/in/iakashchoudhary">
       <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
