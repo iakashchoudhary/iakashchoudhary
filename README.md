@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistic
 
 <table>
   <tr>
