@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-| **Top Languages** |
+|                   |
 |:-----------------:|
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iakashchoudhary&layout=compact&theme=default) |
 
