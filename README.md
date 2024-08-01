@@ -74,4 +74,11 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iakashchoudhary)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:akash01082001@gmail.com)
 
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23CC9966?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/akashchoudhari)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2311B44C?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/iakashchoudhary)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iakashchoudhary)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23F7DF1E?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/iakashchoudhary)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iakashchoudhary)
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash01082001@gmail.com)
+
 </div>
