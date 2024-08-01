@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ## 🔗 Connect & Engage 🤝
 
-                                  [![CodeChef](https://img.shields.io/badge/CodeChef-%23CC9966.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/akashchoudhari)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23CC9966.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/akashchoudhari)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%2311B44C.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/iakashchoudhary)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/iakashchoudhary)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23F7DF1E.svg?logo=leetcode&logoColor=black)](https://leetcode.com/iakashchoudhary)
