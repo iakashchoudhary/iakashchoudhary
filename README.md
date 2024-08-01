@@ -31,13 +31,18 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-| **Web Technologies**    | **Programming Languages**      |
-|-------------------------|--------------------------------|
+| **Web Technologies** | **Programming Languages** |
+|----------------------|---------------------------|
 | ![Web Technologies](https://skillicons.dev/icons?i=html,css&theme=light) | ![Programming Languages](https://skillicons.dev/icons?i=java,py,cs,cpp,c&theme=light) |
+
 | **Frameworks & Libraries** | **Platforms & Services** |
+|----------------------------|--------------------------|
 | ![Frameworks & Libraries](https://skillicons.dev/icons?i=dotnet,django,bootstrap,sklearn,tensorflow&theme=light) | ![Platforms & Services](https://skillicons.dev/icons?i=netlify,stackoverflow&theme=light) |
-| **Operating Systems** | **Markup & Documentation**    |
+
+| **Operating Systems** | **Markup & Documentation** |
+|-----------------------|----------------------------|
 | ![Operating Systems](https://skillicons.dev/icons?i=ubuntu,raspberrypi&theme=light) | ![Markup & Documentation](https://skillicons.dev/icons?i=md&theme=light) |
+
 | **Development Tools & IDEs** |
 |:----------------------------:|
 | ![Development Tools & IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,figma,git,github,postman&theme=light) |
