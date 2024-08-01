@@ -99,7 +99,11 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-## 🔗 Connect & Engage 🤝
+<div align="center">
+
+## Connect & Engage
+
+</div>
 
 <div align="center">
 
