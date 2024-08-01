@@ -35,14 +35,6 @@ Here are some ideas to get you started:
 
 <img src="https://skillicons.dev/icons?i=html,css&theme=light" />
 
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=java,py,cs,cpp,c&theme=light" />
-
-### Markup & Documentation
-
-<img src="https://skillicons.dev/icons?i=md&theme=light" />
-
 </td>
 <td>
 
@@ -50,13 +42,37 @@ Here are some ideas to get you started:
 
 <img src="https://skillicons.dev/icons?i=dotnet,django,bootstrap,sklearn,tensorflow&theme=light" />
 
+</td>
+  </tr>
+  <tr>
+<td>
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,py,cs,cpp,c&theme=light" />
+
+</td>
+<td>
+
 ### Platforms & Services
 
 <img src="https://skillicons.dev/icons?i=netlify,stackoverflow&theme=light" />
 
+</td>
+  </tr>
+  <tr>
+<td>
+
 ### Operating Systems
 
 <img src="https://skillicons.dev/icons?i=ubuntu,raspberrypi&theme=light" />
+
+</td>
+<td>
+
+### Markup & Documentation
+
+<img src="https://skillicons.dev/icons?i=md&theme=light" />
 
 </td>
   </tr>
