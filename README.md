@@ -25,13 +25,33 @@ Here are some ideas to get you started:
 
 ## 🖥️ Technologies & Tools 🛠️
 
-- **Programming Languages:** <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,py&theme=light" />
+### Web Technologies
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,c,cs,cpp,css,django,dotnet,eclipse,figma,git,html,github,java,md,netlify,php,postman,py,r,raspberrypi,stackoverflow,sklearn,tensorflow,ubuntu,visualstudio,vscode&perline=9&theme=light" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css&theme=light" />
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,py,cs,cpp,c&theme=light" />
+
+### Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=dotnet,django,bootstrap,sklearn,tensorflow&theme=light" />
+
+### Development Tools & IDEs
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,figma,git,github,postman&theme=light" />
+
+### Platforms & Services
+
+<img src="https://skillicons.dev/icons?i=netlify,stackoverflow&theme=light" />
+
+### Operating Systems
+
+<img src="https://skillicons.dev/icons?i=ubuntu,raspberrypi&theme=light" />
+
+### Markup & Documentation
+
+<img src="https://skillicons.dev/icons?i=md&theme=light" />
 
 ## 📊 GitHub Statistics
 
