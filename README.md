@@ -38,11 +38,8 @@ Here are some ideas to get you started:
     <td><img src="https://github-readme-stats.vercel.app/api?username=iakashchoudhary&show_icons=true&theme=default" alt="GitHub Stats"></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=iakashchoudhary&theme=default" alt="GitHub Streak"></td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakashchoudhary&layout=compact&theme=default" alt="Top Languages"></td>
+    <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakashchoudhary&layout=compact&theme=default" alt="Top Languages"></td>
   </tr>
 </table>
 
