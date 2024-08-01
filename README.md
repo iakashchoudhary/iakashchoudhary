@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-|    |
-|:--:|
+| **Top Languages** |
+|:-----------------:|
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iakashchoudhary&layout=compact&theme=default) |
 
 </div>
@@ -61,10 +61,6 @@ Here are some ideas to get you started:
 <div align="center">
 
 ## Connect & Engage
-
-</div>
-
-<div align="center">
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23CC9966.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/akashchoudhari)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%2311B44C.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/iakashchoudhary)
