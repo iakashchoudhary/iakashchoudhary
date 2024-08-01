@@ -25,21 +25,19 @@ Here are some ideas to get you started:
 
 ## 🖥️ Technologies & Tools 🛠️
 
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+
 ### Web Technologies
 
 <img src="https://skillicons.dev/icons?i=html,css&theme=light" />
 
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=java,py,cs,cpp,c&theme=light" />
-
 ### Frameworks & Libraries
 
 <img src="https://skillicons.dev/icons?i=dotnet,django,bootstrap,sklearn,tensorflow&theme=light" />
-
-### Development Tools & IDEs
-
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,figma,git,github,postman&theme=light" />
 
 ### Platforms & Services
 
@@ -49,9 +47,27 @@ Here are some ideas to get you started:
 
 <img src="https://skillicons.dev/icons?i=ubuntu,raspberrypi&theme=light" />
 
+</td>
+<td>
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,py,cs,cpp,c&theme=light" />
+
+### Development Tools & IDEs
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,figma,git,github,postman&theme=light" />
+
 ### Markup & Documentation
 
 <img src="https://skillicons.dev/icons?i=md&theme=light" />
+
+</td>
+  </tr>
+</table>
+
+</div>
+
 
 ## 📊 GitHub Statistics
 
