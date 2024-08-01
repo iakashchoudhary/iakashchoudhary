@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 🖥️ Technologies & Tools 🛠️
 
-- Programming Languages: <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,py&theme=light" />
+- **Programming Languages:** <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,py&theme=light" />
 
 <p align="center">
   <a href="https://skillicons.dev">
