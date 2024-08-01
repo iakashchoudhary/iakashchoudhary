@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 ## 🖥️ Technologies & Tools 🛠️
 
 <div align="center">
-
 <table>
   <tr>
 <td>
@@ -35,14 +34,12 @@ Here are some ideas to get you started:
 
 <img src="https://skillicons.dev/icons?i=html,css&theme=light" />
 
-
 </td>
 <td>
 
 ### Frameworks & Libraries
 
 <img src="https://skillicons.dev/icons?i=dotnet,django,bootstrap,sklearn,tensorflow&theme=light" />
-
 
 </td>
   </tr>
@@ -53,14 +50,12 @@ Here are some ideas to get you started:
 
 <img src="https://skillicons.dev/icons?i=java,py,cs,cpp,c&theme=light" />
 
-
 </td>
 <td>
 
 ### Platforms & Services
 
 <img src="https://skillicons.dev/icons?i=netlify,stackoverflow&theme=light" />
-
 
 </td>
   </tr>
@@ -71,14 +66,12 @@ Here are some ideas to get you started:
 
 <img src="https://skillicons.dev/icons?i=ubuntu,raspberrypi&theme=light" />
 
-
 </td>
 <td>
 
 ### Markup & Documentation
 
 <img src="https://skillicons.dev/icons?i=md&theme=light" />
-
 
 </td>
   </tr>
@@ -89,13 +82,10 @@ Here are some ideas to get you started:
 
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,figma,git,github,postman&theme=light" />
 
-
 </td>
   </tr>
 </table>
-
 </div>
-
 
 ## 📊 GitHub Statistics
 
