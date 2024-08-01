@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-## Connect & Engage
+## 🔗 Connect & Engage
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23CC9966.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/akashchoudhari)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%2311B44C.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/iakashchoudhary)
