@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 </td>
   </tr>
   <tr>
-<td>
+<td colspan="2" align="center">
 
 ### Development Tools & IDEs
 
