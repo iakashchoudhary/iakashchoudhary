@@ -1,12 +1,16 @@
 # Hi there, I'm Akash Choudhary 👋
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=iakashchoudhary&color=green" alt="Profile Views" />
-</p>
+<div align="right">
 
-<p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=default&font=default&fontColor=black&bgColor=white" alt="Quote" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=iakashchoudhary&color=green)
+
+</div>
+
+<div align="center">
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=default&font=default&fontColor=black&bgColor=white)
+
+</div>
 
 <!--
 **iakashchoudhary/iakashchoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,7 +38,6 @@ Here are some ideas to get you started:
 | ![Frameworks & Libraries](https://skillicons.dev/icons?i=dotnet,django,bootstrap,sklearn,tensorflow&theme=light) | ![Platforms & Services](https://skillicons.dev/icons?i=netlify,stackoverflow&theme=light) |
 | **Operating Systems** | **Markup & Documentation**    |
 | ![Operating Systems](https://skillicons.dev/icons?i=ubuntu,raspberrypi&theme=light) | ![Markup & Documentation](https://skillicons.dev/icons?i=md&theme=light) |
-
 | **Development Tools & IDEs** |
 |:----------------------------:|
 | ![Development Tools & IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,figma,git,github,postman&theme=light) |
