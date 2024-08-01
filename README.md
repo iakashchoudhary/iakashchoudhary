@@ -50,9 +50,13 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+<div align="center">
+
 |    |
 |:--:|
-| **Top Languages**<br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iakashchoudhary&layout=compact&theme=default) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iakashchoudhary&layout=compact&theme=default) |
+
+</div>
 
 <div align="center">
 
