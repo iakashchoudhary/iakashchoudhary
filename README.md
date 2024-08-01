@@ -55,6 +55,8 @@ Here are some ideas to get you started:
 |:-----------------:|
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iakashchoudhary&layout=compact&theme=default) |
 
+<div align="center">
+
 ## 🔗 Connect & Engage
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23CC9966?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/akashchoudhari)
@@ -63,3 +65,5 @@ Here are some ideas to get you started:
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23F7DF1E?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/iakashchoudhary)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iakashchoudhary)
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash01082001@gmail.com)
+
+</div>
