@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 ## 🖥️ Technologies & Tools
 
+<div align="center">
+
 | **Web Technologies**    | **Programming Languages**      |
 |-------------------------|--------------------------------|
 | ![Web Technologies](https://skillicons.dev/icons?i=html,css&theme=light) | ![Programming Languages](https://skillicons.dev/icons?i=java,py,cs,cpp,c&theme=light) |
@@ -36,6 +38,8 @@ Here are some ideas to get you started:
 | **Development Tools & IDEs** |
 |:----------------------------:|
 | ![Development Tools & IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,figma,git,github,postman&theme=light) |
+
+</div>
 
 ## 📊 GitHub Statistics
 
