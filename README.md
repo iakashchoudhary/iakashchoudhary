@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iakashchoudhary&color=green)
 
-</div>
+</div>/
 
 <div align="center">
 
