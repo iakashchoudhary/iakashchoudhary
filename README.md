@@ -14,7 +14,7 @@
 
 <div align="right">
 
-<a href="https://app.daily.dev/iakashchoudhary"><img src="https://api.daily.dev/devcards/v2/l6VKVK3iLueRUxtkjOYxT.png?type=default&r=ppn" width="356" alt="Akash Choudhary's Dev Card"/></a>
+<a href="https://app.daily.dev/iakashchoudhary"><img src="https://api.daily.dev/devcards/v2/l6VKVK3iLueRUxtkjOYxT.png?type=default&r=ppn" width="300" alt="Akash Choudhary's Dev Card"/></a>
 
 </div>
 
