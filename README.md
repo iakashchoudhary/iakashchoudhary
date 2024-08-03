@@ -15,14 +15,23 @@
 <table>
   <tr>
     <td style="width: 70%; vertical-align: top;">
-      - 🔭 I’m currently working on enhancing my skills.<br>
-      - 🌱 I’m currently learning Data Structures and Algorithms.<br>
-      - 👯 I’m looking to collaborate on <a href="https://github.com/iakashchoudhary/HistBot-Your-History-Helper">HistBot</a>.<br>
-      - 🤔 I’m seeking assistance with developing my own model to understand and answer queries specifically for standard 4th history subject.<br>
-      - 💬 Feel free to ask me about my projects and interests.<br>
-      - 📫 How to reach me: <a href="#-connect--engage">Connect and Engage</a><br>
-      - 😄 Pronouns: he/him<br>
-      - ⚡ Fun fact: I once debugged a piece of code for so long that I started dreaming in syntax!
+
+- 🔭 I’m currently working on enhancing my skills.
+
+- 🌱 I’m currently learning Data Structures and Algorithms.
+
+- 👯 I’m looking to collaborate on <a href="https://github.com/iakashchoudhary/HistBot-Your-History-Helper">HistBot</a>.
+
+- 🤔 I’m seeking assistance with developing my own model to understand and answer queries specifically for standard 4th history subject.
+
+- 💬 Feel free to ask me about my projects and interests.
+
+- 📫 How to reach me: <a href="#-connect--engage">Connect and Engage</a>
+
+- 😄 Pronouns: he/him
+
+- ⚡ Fun fact: I once debugged a piece of code for so long that I started dreaming in syntax!
+
     </td>
     <td style="width: 30%; text-align: center;">
       <a href="https://app.daily.dev/iakashchoudhary">
