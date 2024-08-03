@@ -57,6 +57,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+<a href="https://app.daily.dev/iakashchoudhary"><img src="https://api.daily.dev/devcards/v2/l6VKVK3iLueRUxtkjOYxT.png?r=xx7&type=wide" width="652" alt="Akash Choudhary's Dev Card"/></a>
+
 ## 🔗 Connect & Engage
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23CC9966?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/akashchoudhari)
