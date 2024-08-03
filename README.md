@@ -12,11 +12,11 @@
 
 </div>
 
+## 🧑🏼‍🎓 About Me
+
 <table>
   <tr>
     <td style="width: 70%; vertical-align: top;">
-
-## 🧑🏼‍🎓 About Me
 
 - 🔭 I’m currently working on enhancing my skills.
 
