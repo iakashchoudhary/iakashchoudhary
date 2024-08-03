@@ -96,5 +96,6 @@ Here are some ideas to get you started:
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23F7DF1E?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/iakashchoudhary)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iakashchoudhary)
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:akash01082001@gmail.com)
+[![Dev](https://img.shields.io/badge/Dev-%230A66C2?style=flat-square&logo=dev&logoColor=white)](https://dev.to/iakashchoudhary)
 
 </div>
