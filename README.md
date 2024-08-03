@@ -82,10 +82,6 @@ Here are some ideas to get you started:
 |:---:|:---:|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iakashchoudhary&show_icons=true&theme=default) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iakashchoudhary&theme=default) |
 
-|                   |
-|:-----------------:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iakashchoudhary&layout=compact&theme=default) |
-
 <div align="center">
 
 ## 🔗 Connect & Engage
