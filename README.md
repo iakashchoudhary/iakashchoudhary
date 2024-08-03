@@ -12,6 +12,12 @@
 
 </div>
 
+<div align="right">
+
+<a href="https://app.daily.dev/iakashchoudhary"><img src="https://api.daily.dev/devcards/v2/l6VKVK3iLueRUxtkjOYxT.png?type=default&r=ppn" width="356" alt="Akash Choudhary's Dev Card"/></a>
+
+</div>
+
 <!--
 **iakashchoudhary/iakashchoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -56,8 +62,6 @@ Here are some ideas to get you started:
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iakashchoudhary&layout=compact&theme=default) |
 
 <div align="center">
-
-<a href="https://app.daily.dev/iakashchoudhary"><img src="https://api.daily.dev/devcards/v2/l6VKVK3iLueRUxtkjOYxT.png?r=xx7&type=wide" width="652" alt="Akash Choudhary's Dev Card"/></a>
 
 ## 🔗 Connect & Engage
 
