@@ -37,7 +37,7 @@
     </td>
     <td style="width: 30%; text-align: center;">
       <a href="https://app.daily.dev/iakashchoudhary">
-        <img src="https://api.daily.dev/devcards/v2/l6VKVK3iLueRUxtkjOYxT.png?type=default&r=ppn" alt="Akash Choudhary's Dev Card" style="max-width: 75%;"/>
+        <img src="https://api.daily.dev/devcards/v2/l6VKVK3iLueRUxtkjOYxT.png?type=default&r=ppn" alt="Akash Choudhary's Dev Card" style="max-width: 80%;"/>
       </a>
     </td>
   </tr>
