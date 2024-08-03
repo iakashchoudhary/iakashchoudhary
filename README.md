@@ -12,17 +12,16 @@
 
 </div>
 
-|                |                |
-|:--------------:|:--------------:|
-| - 🔭 I’m currently working on enhancing my skills.
+- 🔭 I’m currently working on enhancing my skills.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on [HistBot](https://github.com/iakashchoudhary/HistBot-Your-History-Helper).
 - 🤔 I’m seeking assistance with developing my own model to understand and answer queries specifically for standard 4th history subject.
 - 💬 Feel free to ask me about my projects and interests.
 - 📫 How to reach me: [Connect and Engage](#-connect--engage)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I once debugged a piece of code for so long that I started dreaming in syntax! | <a href="https://app.daily.dev/iakashchoudhary"><img src="https://api.daily.dev/devcards/v2/l6VKVK3iLueRUxtkjOYxT.png?type=default&r=ppn" width="300" alt="Akash Choudhary's Dev Card"/></a>
- |
+- ⚡ Fun fact: I once debugged a piece of code for so long that I started dreaming in syntax!
+
+<a href="https://app.daily.dev/iakashchoudhary"><img src="https://api.daily.dev/devcards/v2/l6VKVK3iLueRUxtkjOYxT.png?type=default&r=ppn" width="300" alt="Akash Choudhary's Dev Card"/></a>
 
 <!--
 **iakashchoudhary/iakashchoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
