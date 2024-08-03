@@ -18,21 +18,21 @@
   <tr>
     <td style="width: 70%; vertical-align: top;">
 
-- 🔭 I’m currently working on enhancing my skills.
+- 🔭 I’m currently working on **enhancing my skills**.
 
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 🌱 I’m currently learning **Data Structures and Algorithms**.
 
-- 👯 I’m looking to collaborate on <a href="https://github.com/iakashchoudhary/HistBot-Your-History-Helper">HistBot</a>.
+- 👯 I’m looking to collaborate on **<a href="https://github.com/iakashchoudhary/HistBot-Your-History-Helper">HistBot</a>**.
 
-- 🤔 I’m seeking assistance with developing my own model to understand and answer queries specifically for standard 4th history subject.
+- 🤔 I’m seeking assistance with **developing my own model** to understand and answer queries specifically for standard 4th history subject.
 
-- 💬 Feel free to ask me about my projects and interests.
+- 💬 Feel free to ask me about **my projects and interests**.
 
-- 📫 How to reach me: <a href="#-connect--engage">Connect and Engage</a>
+- 📫 How to reach me: **<a href="#-connect--engage">Akash Choudhary</a>**
 
-- 😄 Pronouns: he/him
+- 😄 Pronouns: **he/him**
 
-- ⚡ Fun fact: I once debugged a piece of code for so long that I started dreaming in syntax!
+- ⚡ Fun fact: **I once debugged a piece of code for so long that I started dreaming in syntax!**
 
     </td>
     <td style="width: 30%; text-align: center;">
