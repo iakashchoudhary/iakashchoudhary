@@ -88,9 +88,24 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Statistics
 
-|     |     |
-|:---:|:---:|
+|                        |                       |
+|:----------------------:|:---------------------:|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iakashchoudhary&show_icons=true&theme=default) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iakashchoudhary&theme=default) |
+
+<table>
+  <tr>
+    <td>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iakashchoudhary)
+
+    </td>
+    <td>
+
+[![roadmap.sh](https://roadmap.sh/card/wide/66af7a2f19ba71f57b624010?variant=light)](https://roadmap.sh)
+
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Achievements
 
