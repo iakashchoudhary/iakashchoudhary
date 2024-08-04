@@ -84,9 +84,8 @@ Here are some ideas to get you started:
 
 ## 🚀 Achievements
 
-| **Software Testing from NPTEL** | **Data Visualization from BIA** |
-|:-------------------------------:|:-------------------------------:|
-| <img src="https://github.com/user-attachments/assets/c8fb7f52-88f3-4112-b081-864168f87f31" width="200" height="200"/> | <img src="https://github.com/user-attachments/assets/cc360f64-4abf-4555-9b59-8e11cf486394" width="200" height="200"/> |
+- 🎓 **Software Testing** from [NPTEL](https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/106/noc24-cs47/Course/NPTEL24CS47S35020037030034542.pdf)
+- 📊 **Data Visualization** from [BIA](https://bia.bostoninstituteofanalytics.org/certificate-masterclass/004)
 
 ## 🎨 Hobbies / Interests
 
