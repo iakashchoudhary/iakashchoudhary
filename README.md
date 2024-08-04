@@ -82,8 +82,6 @@ Here are some ideas to get you started:
 |:---:|:---:|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iakashchoudhary&show_icons=true&theme=default) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iakashchoudhary&theme=default) |
 
-<div align="center">
-
 ## 🚀 Achievements
 | **Software Testing** from NPTEL | **Data Visualization** from BIA |
 |:-------------------------------:|:-------------------------------:|
@@ -95,6 +93,8 @@ Here are some ideas to get you started:
 - 🎮 **Playing games** - Love spending time on video games and exploring new ones.
 - 🎥 **Anime** - Avid fan of anime series and movies.
 - 📚 **Reading tech blogs** - Always on the lookout for the latest trends and innovations in tech.
+
+<div align="center">
 
 ## 🔗 Connect & Engage
 
