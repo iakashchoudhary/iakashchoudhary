@@ -83,11 +83,13 @@ Here are some ideas to get you started:
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iakashchoudhary&show_icons=true&theme=default) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iakashchoudhary&theme=default) |
 
 ## 🚀 Achievements
-| **Software Testing** from NPTEL | **Data Visualization** from BIA |
+
+| **Software Testing from NPTEL** | **Data Visualization from BIA** |
 |:-------------------------------:|:-------------------------------:|
-| ![Software Testing Certificate](https://github.com/user-attachments/assets/c8fb7f52-88f3-4112-b081-864168f87f31) | ![Data Visualization Certificate](https://github.com/user-attachments/assets/cc360f64-4abf-4555-9b59-8e11cf486394) |
+| <img src="https://github.com/user-attachments/assets/c8fb7f52-88f3-4112-b081-864168f87f31" width="200" height="200"/> | <img src="https://github.com/user-attachments/assets/cc360f64-4abf-4555-9b59-8e11cf486394" width="200" height="200"/> |
 
 ## 🎨 Hobbies / Interests
+
 - 👔 **Fashion/Grooming** - Passionate about staying stylish and well-groomed.
 - 🎬 **Movies and series** - Enjoy watching a variety of genres.
 - 🎮 **Playing games** - Love spending time on video games and exploring new ones.
