@@ -60,9 +60,13 @@ Here are some ideas to get you started:
 
 ## 🏆 Highlighted Projects
 
+<div align="center">
+
 |                      |                      |
 |:--------------------:|:--------------------:|
 | [![HistBot](https://github-readme-stats.vercel.app/api/pin/?username=iakashchoudhary&repo=HistBot-Your-History-Helper)](https://github.com/iakashchoudhary/HistBot-Your-History-Helper) | [![Darebee Project](https://github-readme-stats.vercel.app/api/pin/?username=iakashchoudhary&repo=DareBee-SPA-AngularJS)](https://github.com/iakashchoudhary/DareBee-SPA-AngularJS) |
+
+</div>
 
 ## 🖥️ Technologies & Tools
 
