@@ -58,6 +58,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🏆 Highlighted Projects
+
+[![HistBot](https://github-readme-stats.vercel.app/api/pin/?username=iakashchoudhary&repo=HistBot-Your-History-Helper)](https://github.com/iakashchoudhary/HistBot-Your-History-Helper)
+
 ## 🖥️ Technologies & Tools
 
 | **Web Technologies** | **Programming Languages** |
@@ -94,6 +98,14 @@ Here are some ideas to get you started:
 - 🎮 **Playing games** - Love spending time on video games and exploring new ones.
 - 🎥 **Anime** - Avid fan of anime series and movies.
 - 📚 **Reading tech blogs** - Always on the lookout for the latest trends and innovations in tech.
+
+## 🎖️ GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=iakashchoudhary)](https://github.com/iakashchoudhary)
+
+</div>
 
 <div align="center">
 
