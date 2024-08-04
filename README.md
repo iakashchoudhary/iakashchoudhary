@@ -84,6 +84,20 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+## 🚀 Achievements
+| **Software Testing** from NPTEL | **Data Visualization** from BIA |
+|:-------------------------------:|:-------------------------------:|
+| ![Software Testing Certificate](https://github.com/user-attachments/assets/c8fb7f52-88f3-4112-b081-864168f87f31)
+ | ![Data Visualization Certificate](https://github.com/user-attachments/assets/cc360f64-4abf-4555-9b59-8e11cf486394)
+ |
+
+## 🎨 Hobbies / Interests
+- 👔 **Fashion/Grooming** - Passionate about staying stylish and well-groomed.
+- 🎬 **Movies and series** - Enjoy watching a variety of genres.
+- 🎮 **Playing games** - Love spending time on video games and exploring new ones.
+- 🎥 **Anime** - Avid fan of anime series and movies.
+- 📚 **Reading tech blogs** - Always on the lookout for the latest trends and innovations in tech.
+
 ## 🔗 Connect & Engage
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23CC9966?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/akashchoudhari)
