@@ -92,11 +92,11 @@ Here are some ideas to get you started:
 |:----------------------:|:---------------------:|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iakashchoudhary&show_icons=true&theme=default) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iakashchoudhary&theme=default) |
 
-<table>
+<table align="center">
   <tr>
 <td align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iakashchoudhary)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iakashchoudhary&layout=compact)
 
 </td>
 <td align="center">
