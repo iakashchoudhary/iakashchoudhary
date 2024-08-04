@@ -139,5 +139,6 @@ Here are some ideas to get you started:
 [![HackerRank](https://img.shields.io/badge/HackerRank-%2311B44C?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/iakashchoudhary)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23F7DF1E?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/iakashchoudhary)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iakashchoudhary)
+[![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh-%230077B5?style=flat-square&logo=roadmap&logoColor=white)](https://roadmap.sh/u/iamakash)
 
 </div>
