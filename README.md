@@ -87,9 +87,7 @@ Here are some ideas to get you started:
 ## 🚀 Achievements
 | **Software Testing** from NPTEL | **Data Visualization** from BIA |
 |:-------------------------------:|:-------------------------------:|
-| ![Software Testing Certificate](https://github.com/user-attachments/assets/c8fb7f52-88f3-4112-b081-864168f87f31)
- | ![Data Visualization Certificate](https://github.com/user-attachments/assets/cc360f64-4abf-4555-9b59-8e11cf486394)
- |
+| ![Software Testing Certificate](https://github.com/user-attachments/assets/c8fb7f52-88f3-4112-b081-864168f87f31) | ![Data Visualization Certificate](https://github.com/user-attachments/assets/cc360f64-4abf-4555-9b59-8e11cf486394) |
 
 ## 🎨 Hobbies / Interests
 - 👔 **Fashion/Grooming** - Passionate about staying stylish and well-groomed.
