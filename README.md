@@ -94,16 +94,16 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td>
+<td align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iakashchoudhary)
 
-    </td>
-    <td>
+</td>
+<td align="center">
 
 [![roadmap.sh](https://roadmap.sh/card/wide/66af7a2f19ba71f57b624010?variant=light)](https://roadmap.sh)
 
-    </td>
+</td>
   </tr>
 </table>
 
