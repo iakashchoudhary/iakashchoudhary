@@ -94,16 +94,12 @@ Here are some ideas to get you started:
 
 <table align="center">
   <tr>
-<td align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iakashchoudhary&layout=compact)
-
-</td>
-<td align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iakashchoudhary&bg_color=ffffff&color=000000&title_color=000000&line=30A14E&point=216E39&area_color=40C463&area=true&hide_border=true)
-
-</td>
+    <td align="center" width="40%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakashchoudhary&layout=compact" alt="Top Languages" width="100%" />
+    </td>
+    <td align="center" width="60%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=iakashchoudhary&bg_color=ffffff&color=000000&title_color=000000&line=30A14E&point=216E39&area_color=40C463&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+    </td>
   </tr>
 </table>
 
