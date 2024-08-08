@@ -2,7 +2,7 @@
 
 <div align="right">
 
-![Profile Views](https://komarev.com/ghpvc/?username=iakashchoudhary&color=green)
+
 
 </div>
 
