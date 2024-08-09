@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 
 <table align="center">
 <tr>
-  <td>
+  <td align="center">
 
 ![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iakashchoudhary&theme=github)
 
