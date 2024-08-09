@@ -93,6 +93,16 @@ Here are some ideas to get you started:
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iakashchoudhary&show_icons=true&theme=default) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iakashchoudhary&theme=default) |
 
 <table align="center">
+<tr>
+  <td>
+
+![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iakashchoudhary&theme=github)
+
+  </td>
+</tr>
+</table>
+
+<table align="center">
   <tr>
 <td align="center">
 
