@@ -8,15 +8,11 @@
 
 <div align="center">
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=default&font=default&fontColor=black&bgColor=white)
+<a href="https://app.daily.dev/iakashchoudhary"><img src="https://api.daily.dev/devcards/v2/l6VKVK3iLueRUxtkjOYxT.png?type=wide&r=3sa" width="652" alt="Akash Choudhary's Dev Card"/></a>
 
 </div>
 
 ## 🧑🏼‍🎓 About Me
-
-<table>
-  <tr>
-    <td style="width: 70%; vertical-align: top;">
 
 - 🔭 I’m currently working on **enhancing my skills**.
 
@@ -33,15 +29,6 @@
 - 😄 Pronouns: **he/him**
 
 - ⚡ Fun fact: **I once debugged a piece of code for so long that I started dreaming in syntax!**
-
-    </td>
-    <td style="width: 30%; text-align: center;">
-      <a href="https://app.daily.dev/iakashchoudhary">
-        <img src="https://api.daily.dev/devcards/v2/l6VKVK3iLueRUxtkjOYxT.png?type=default&r=u0x" alt="Akash Choudhary's Dev Card" style="max-width: 80%;"/>
-      </a>
-    </td>
-  </tr>
-</table>
 
 <!--
 **iakashchoudhary/iakashchoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
