@@ -48,12 +48,8 @@ Here are some ideas to get you started:
 ## 🏆 Highlighted Projects
 
 <div align="center">
-  <a href="https://github.com/iakashchoudhary/HistBot-Your-History-Helper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iakashchoudhary&repo=HistBot-Your-History-Helper" alt="HistBot" height="150">
-  </a>
-  <a href="https://github.com/iakashchoudhary/DareBee-SPA-AngularJS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iakashchoudhary&repo=DareBee-SPA-AngularJS" alt="Darebee Project" height="150">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iakashchoudhary&repo=HistBot-Your-History-Helper" alt="HistBot" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iakashchoudhary&repo=DareBee-SPA-AngularJS" alt="Darebee Project" height="150">
 </div>
 
 ## 🖥️ Technologies & Tools
