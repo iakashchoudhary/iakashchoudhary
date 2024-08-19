@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 </td>
 <td align="center">
 
-[![roadmap.sh](https://roadmap.sh/card/wide/66af7a2f19ba71f57b624010?variant=light&roadmaps=prompt-engineeing%2Ccode-review%2Cdevops%2Cdatastructures-and-algorithms)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/66af7a2f19ba71f57b624010?variant=light)](https://roadmap.sh)
 
 </td>
   </tr>
