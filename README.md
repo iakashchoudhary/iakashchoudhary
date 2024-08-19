@@ -30,7 +30,7 @@
 
 </td>
     <td style="width: 30%; text-align: center;">
-      <a href="https://app.daily.dev/iakashchoudhary"><img src="https://api.daily.dev/devcards/v2/l6VKVK3iLueRUxtkjOYxT.png?type=default&r=0j4" style="max-width: 70%;" alt="Akash Choudhary's Dev Card"/></a>
+      <a href="https://app.daily.dev/iakashchoudhary"><img src="https://api.daily.dev/devcards/v2/l6VKVK3iLueRUxtkjOYxT.png?type=default&r=0j4" style="max-width: 60%;" alt="Akash Choudhary's Dev Card"/></a>
     </td>
   </tr>
 </table>
