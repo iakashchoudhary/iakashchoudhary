@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header"/>
-</p>
-
 # Hi there, I'm Akash Choudhary 👋
 
 <div align="right">
@@ -148,7 +144,3 @@ Here are some ideas to get you started:
 [![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh-%230077B5?style=flat-square&logo=roadmap.sh&logoColor=white&color=grey)](https://roadmap.sh/u/iamakash)
 
 </div>
-
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer"/>
-</p>
