@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header"/>
+</p>
+
 # Hi there, I'm Akash Choudhary 👋
 
 <div align="right">
@@ -146,5 +150,5 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer"/>
 </p>
