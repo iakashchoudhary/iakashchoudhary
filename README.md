@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ## 🏆 Highlighted Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iakashchoudhary&repo=HistBot-Your-History-Helper" alt="HistBot" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iakashchoudhary&repo=HistBot-Your-History-Helper" alt="HistBot" width="350" height="150">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=iakashchoudhary&repo=DareBee-SPA-AngularJS" alt="Darebee Project" height="150">
 </div>
 
