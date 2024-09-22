@@ -67,7 +67,12 @@ Here are some ideas to get you started:
 
 </details>
 
+<details>
+  <summary>
+
 ## 🖥️ Technologies & Tools
+
+  </summary>
 
 | **Web Technologies** | **Programming Languages** |
 |:--------------------:|:-------------------------:|
@@ -85,7 +90,14 @@ Here are some ideas to get you started:
 |:----------------------------:|
 | ![Development Tools & IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,figma,git,github,postman&theme=light) |
 
+</details>
+
+<details>
+  <summary>
+
 ## 📊 GitHub Statistics
+
+  </summary>
 
 |                        |                       |
 |:----------------------:|:---------------------:|
@@ -106,12 +118,26 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+</details>
+
+<details>
+  <summary>
+
 ## 🚀 Achievements
+
+  </summary>
 
 - 🎓 **Certified in Software Testing** from [NPTEL](https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/106/noc24-cs47/Course/NPTEL24CS47S35020037030034542.pdf)
 - 📊 **Certified in Data Visualization** from [BIA](https://bia.bostoninstituteofanalytics.org/certificate-masterclass/004)
 
+</details>
+
+<details>
+  <summary>
+
 ## 🎨 Hobbies / Interests
+
+  </summary>
 
 - 👔 **Fashion/Grooming** - Passionate about staying stylish and well-groomed.
 - 🎬 **Movies and series** - Enjoy watching a variety of genres.
@@ -119,13 +145,22 @@ Here are some ideas to get you started:
 - 🎥 **Anime** - Avid fan of anime series and movies.
 - 📚 **Reading tech blogs** - Always on the lookout for the latest trends and innovations in tech.
 
+</details>
+
+<details>
+  <summary>
+
 ## 🎖️ GitHub Trophies
+
+  </summary>
 
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iakashchoudhary)](https://github.com/iakashchoudhary)
 
 </div>
+
+</details>
 
 <div align="center">
 
