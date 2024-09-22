@@ -1,3 +1,15 @@
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Section Title
+  This is the content that will be hidden until the arrow or section heading is clicked.
+  
+  - Point 1
+  - Point 2
+  - Point 3
+
+</details>
+
 # Hi there, I'm Akash Choudhary 👋
 
 <div align="right">
