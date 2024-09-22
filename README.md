@@ -1,8 +1,7 @@
 <details>
-  <summary>Click to expand!</summary>
-  
-  ## Section Title
-  This is the content that will be hidden until the arrow or section heading is clicked.
+  <summary>## Section Title</summary>
+
+  This is the content that will be hidden until the section title is clicked.
   
   - Point 1
   - Point 2
