@@ -1,14 +1,3 @@
-<details>
-  <summary>## Section Title</summary>
-
-  This is the content that will be hidden until the section title is clicked.
-  
-  - Point 1
-  - Point 2
-  - Point 3
-
-</details>
-
 # Hi there, I'm Akash Choudhary 👋
 
 <div align="right">
@@ -17,7 +6,12 @@
 
 </div>
 
+<details>
+  <summary>
+
 ## 🧑🏼‍🎓 About Me
+
+  </summary>
 
 <table>
   <tr>
@@ -45,6 +39,8 @@
     </td>
   </tr>
 </table>
+
+</details>
 
 <!--
 **iakashchoudhary/iakashchoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
