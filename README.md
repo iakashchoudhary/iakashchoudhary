@@ -6,12 +6,7 @@
 
 </div>
 
-<details>
-  <summary>
-
 ## 🧑🏼‍🎓 About Me
-
-  </summary>
 
 <table>
   <tr>
@@ -40,8 +35,6 @@
   </tr>
 </table>
 
-</details>
-
 <!--
 **iakashchoudhary/iakashchoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -57,7 +50,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<details>
+  <summary>
+
 ## 🏆 Highlighted Projects
+
+  </summary>
 
 <div align="center">
 
@@ -66,6 +64,8 @@ Here are some ideas to get you started:
 | [![HistBot](https://github-readme-stats.vercel.app/api/pin/?username=iakashchoudhary&repo=HistBot-Your-History-Helper)](https://github.com/iakashchoudhary/HistBot-Your-History-Helper) | [![Darebee Project](https://github-readme-stats.vercel.app/api/pin/?username=iakashchoudhary&repo=DareBee-SPA-AngularJS)](https://github.com/iakashchoudhary/DareBee-SPA-AngularJS) |
 
 </div>
+
+</details>
 
 ## 🖥️ Technologies & Tools
 
