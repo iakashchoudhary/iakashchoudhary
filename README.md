@@ -127,7 +127,7 @@ Here are some ideas to get you started:
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23CC9966?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/akashchoudhari)
 [![Dev](https://img.shields.io/badge/Dev-%230A66C2?style=flat-square&logo=dev.to&logoColor=white)](https://app.daily.dev/iakashchoudhary)
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:akash01082001@gmail.com)
-[![Figma](https://img.shields.io/badge/Figma-%23D14836?style=flat-square&logo=gmail&logoColor=white)](https://www.figma.com/@iakashchoudhary)
+[![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=gmail&logoColor=white)](https://www.figma.com/@iakashchoudhary)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/iakashchoudhary)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%2311B44C?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/iakashchoudhary)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23F7DF1E?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/iakashchoudhary)
