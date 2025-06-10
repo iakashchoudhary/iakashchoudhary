@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 | **Operating Systems** | **Markup & Documentation** |
 |:---------------------:|:--------------------------:|
-| ![Operating Systems](https://skillicons.dev/icons?i=ubuntu,raspberrypi&theme=light) | ![Markup & Documentation](https://skillicons.dev/icons?i=md&theme=light) |
+| ![Operating Systems](https://skillicons.dev/icons?i=ubuntu,raspberrypi,windows&theme=light) | ![Markup & Documentation](https://skillicons.dev/icons?i=md&theme=light) |
 
 | **Development Tools & IDEs** |
 |:----------------------------:|
