@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ## 🏆 Highlighted Projects
 
@@ -59,6 +58,7 @@ Here are some ideas to get you started:
 | [![HistBot](https://github-readme-stats.vercel.app/api/pin/?username=iakashchoudhary&repo=HistBot-Your-History-Helper)](https://github.com/iakashchoudhary/HistBot-Your-History-Helper) | [![Darebee Project](https://github-readme-stats.vercel.app/api/pin/?username=iakashchoudhary&repo=DareBee-SPA-AngularJS)](https://github.com/iakashchoudhary/DareBee-SPA-AngularJS) |
 
 </div>
+-->
 
 ## 🖥️ Technologies & Tools
 
@@ -78,6 +78,7 @@ Here are some ideas to get you started:
 |:----------------------------:|
 | ![Development Tools & IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,figma,git,github,postman&theme=light) |
 
+<!--
 ## 📊 GitHub Statistics
 
 |                        |                       |
@@ -89,6 +90,24 @@ Here are some ideas to get you started:
 <td align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iakashchoudhary&layout=compact)
+
+</td>
+<td align="center">
+
+[![roadmap.sh](https://roadmap.sh/card/wide/66af7a2f19ba71f57b624010?variant=light&roadmaps=prompt-engineering%2Ccode-review%2Cdevops%2Cdatastructures-and-algorithms)](https://roadmap.sh)
+
+</td>
+  </tr>
+</table>
+-->
+
+## 📊 GitHub Statistics
+
+<table align="center">
+  <tr>
+<td align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iakashchoudhary&theme=default)
 
 </td>
 <td align="center">
@@ -112,6 +131,7 @@ Here are some ideas to get you started:
 - 🎥 **Anime** - Avid fan of anime series and movies.
 - 📚 **Reading tech blogs** - Always on the lookout for the latest trends and innovations in tech.
 
+<!--
 ## 🎖️ GitHub Trophies
 
 <div align="center">
@@ -119,6 +139,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=iakashchoudhary)](https://github.com/iakashchoudhary)
 
 </div>
+-->
 
 <div align="center">
 
